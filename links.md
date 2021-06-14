@@ -1,0 +1,1 @@
+https://github.com/ox-it/time-series-api/blob/master/ontology/time-series.ttl
